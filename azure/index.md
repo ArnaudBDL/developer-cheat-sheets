@@ -1,0 +1,17 @@
+# Azure : Table of Contents
+
+- [CLI](cli.md)
+- [Identity](identity.md)
+- [Resource Groups](resource-groups.md)
+- [Virtual Machines](virtual-machines.md)
+- [Storage](storage.md)
+- [Virtual Networks](virtual-networks.md)
+- [App Service](app-service.md)
+- [Functions](functions.md)
+- [Databases](databases.md)
+- [Containers](containers.md)
+- [Monitoring](monitoring.md)
+- [Infrastructure as Code](infrastructure-as-code.md)
+- [Security](security.md)
+- [Cost Management](cost-management.md)
+- [Troubleshooting](troubleshooting.md)

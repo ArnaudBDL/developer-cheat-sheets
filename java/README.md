@@ -1,0 +1,53 @@
+# Java
+
+Cheat sheets, syntax, commands and [Quick References](quick-references.md) for Java.
+
+## Table of Contents
+
+- [Installation](installation.md)
+- [Syntax](syntax.md)
+- [Types](types.md)
+- [Operators](operators.md)
+- [Control Structures](control-structures.md)
+- [Methods](methods.md)
+- [Classes](classes.md)
+- [Interfaces](interfaces.md)
+- [Records](records.md)
+- [Enums](enums.md)
+- [Generics](generics.md)
+- [Collections](collections.md)
+- [Streams](streams.md)
+- [Lambdas](lambdas.md)
+- [Exceptions](exceptions.md)
+- [Packages](packages.md)
+- [Modules](modules.md)
+- [Files and I/O](files.md)
+- [Date and Time](date-time.md)
+- [Build Tools](build-tools.md)
+- [Dependencies](dependencies.md)
+- [Testing](testing.md)
+- [Logging](logging.md)
+- [Concurrency](concurrency.md)
+- [Virtual Threads](virtual-threads.md)
+- [Security](security.md)
+- [Performance](performance.md)
+- [Troubleshooting](troubleshooting.md)
+
+## Recommended Path
+
+1. [Installation](installation.md)
+2. [Syntax](syntax.md)
+3. [Types](types.md)
+4. [Control Structures](control-structures.md)
+5. [Methods](methods.md)
+6. [Classes](classes.md)
+7. [Interfaces](interfaces.md)
+8. [Generics](generics.md)
+9. [Collections](collections.md)
+10. [Streams](streams.md)
+11. [Exceptions](exceptions.md)
+12. [Packages](packages.md)
+13. [Testing](testing.md)
+14. [Concurrency](concurrency.md)
+15. [Security](security.md)
+16. [Troubleshooting](troubleshooting.md)
